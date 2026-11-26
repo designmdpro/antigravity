@@ -16,5 +16,13 @@
   },
   "homepage": "https://www.designmdpro.app/integrations/mcp",
   "repository": "https://github.com/designmdpro/antigravity",
-  "keywords": ["design-system", "design-md", "design-tokens", "ui", "theming", "mcp"]
+  "keywords": [
+    "design-system",
+    "design-md",
+    "design-tokens",
+    "ui",
+    "theming",
+    "mcp"
+  ],
+  "license": "MIT"
 }

@@ -50,3 +50,7 @@ agy plugin install https://github.com/designmdpro/antigravity
 - Website: https://www.designmdpro.app
 - MCP docs: https://www.designmdpro.app/integrations/mcp
 - CLI: `npx designmdpro`
+
+## License
+
+[MIT](LICENSE)
