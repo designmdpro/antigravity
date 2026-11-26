@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "designmdpro",
+  "displayName": "DesignMD Pro",
+  "version": "1.0.0",
+  "description": "Restyle your project after real websites: search curated DESIGN.md design systems, read their tokens and apply them to your code.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Make this app look like Linear",
+    "Show me three calmer, more premium design directions for this project",
+    "Find fintech websites with dark themes and compare their color tokens"
+  ],
+  "author": {
+    "name": "DesignMD Pro",
+    "url": "https://www.designmdpro.app"
+  },
+  "homepage": "https://www.designmdpro.app/integrations/mcp",
+  "repository": "https://github.com/designmdpro/antigravity",
+  "keywords": ["design-system", "design-md", "design-tokens", "ui", "theming", "mcp"]
+}
